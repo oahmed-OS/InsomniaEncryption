@@ -1,0 +1,15 @@
+{
+  "name": "insomnia-plugin-wings-encryption",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "wings-encryption",
+    "displayName": "Wings Encryption ",
+    "description": "Wings insomnia plugin to help with the testing of encrypted api's",
+    "unlisted": "true"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "jsrsasign": "^10.8.6"
+  }
+}
